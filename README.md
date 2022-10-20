@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Orelin
-- 👀 I’m interested in Js...
+- 👋 Hi, I’m Dahian!!
+- It motivates me a lot to be able to learn and I will give 100% in everything!
+- 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Orelin/Orelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
