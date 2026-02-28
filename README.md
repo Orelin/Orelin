@@ -3,11 +3,12 @@
   p>
   <p align="center">Uruguay</p>
 
-  <p align="center">
+ <p align="center">
     <a href="https://linkedin.com/in/dahian.sosa">
       <img src="https://img.shields.io/badge/LinkedIn-Dahian%20Sosa-0A66C2?style=for-the-
   badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:shaco-dark@outlook.com">
       <img src="https://img.shields.io/badge/Email-shaco--dark%40outlook.com-EA4335?style=for-the-
   badge&logo=gmail&logoColor=white" alt="Email" />
